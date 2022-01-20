@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bpassini12
-- 👀 I’m interested in automation, data analysis, statistics, machine learning
+- 👀 I’m interested in automation, data analysis, statistics, machine learning, data engineering
 - 🌱 I’m currently learning about machine learning techniques and models
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Brett.Passini@Gmail.com
