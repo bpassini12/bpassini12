@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bpassini12
 - 👀 I’m interested in automation, data analysis, statistics, machine learning, data engineering
-- 🌱 I’m currently learning about vizualizations
+- 🌱 I’m currently learning about vizualizations, neural networks, and arduinos
 - 💞️ I’m looking to collaborate any fun projects
 - 📫 How to reach me...
 
